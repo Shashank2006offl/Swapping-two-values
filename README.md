@@ -1,5 +1,6 @@
 # Swapping-two-values
 ## AIM:
+Shashank
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
 PC
@@ -18,7 +19,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~python
+#program to swap two values
+#devoloped by :Gurumoorthy S
+#Refrence Number:23013949
 
+x=int(input("Enter the x value"))
+y=int(input("enter the y value"))
+temp=x
+x=y
+y=temp
+print(f"value of x is{x}and value of y is{y}")
+
+~~~
 
 
 ## RESULT:
