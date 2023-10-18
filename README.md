@@ -18,7 +18,9 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+
 ## PROGRAM:
+
 ~~~python
 #program to swap two values
 #devoloped by :Gurumoorthy S
@@ -33,6 +35,8 @@ print(f"value of x is{x}and value of y is{y}")
 
 ~~~
 
+## OUTPUT:
+![Alt text](image.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
