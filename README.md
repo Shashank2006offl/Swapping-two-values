@@ -34,9 +34,8 @@ y=temp
 print(f"value of x is{x}and value of y is{y}")
 
 ~~~
-
 ## OUTPUT:
-![Alt text](/image.png)
+![Alt text](image-1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
