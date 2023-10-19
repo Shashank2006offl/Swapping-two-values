@@ -23,7 +23,7 @@ End the program
 
 ~~~python
 #program to swap two values
-#devoloped by :Gurumoorthy S
+#devoloped by :Shashank R
 #Refrence Number:23013949
 
 x=int(input("Enter the x value"))
